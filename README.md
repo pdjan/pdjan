@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 - it's me : Predrag
 
 <!--
 **pdjan/pdjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning Scientific Computing with Python on FreeCodeCamp <br>
+🔭 I’m currently working on several mini Python projects
