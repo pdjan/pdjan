@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Scientific Computing with Python on FreeCodeCamp <br>
+🌱 I’m currently learning Data Analysis with Python on FreeCodeCamp <br>
 🔭 I’m currently working on several mini Python projects
