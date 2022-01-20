@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Data Analysis with Python on FreeCodeCamp <br>
-🔭 I’m currently working on several mini Python projects
+- 🔭 I’m currently learning React, keep out! <br>
+- 📫 How to reach me: twitter.com/koder <br>
+- 
