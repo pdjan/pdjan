@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently learning React and Django, keep out! <br>
+- 🔭 I’m currently learning Data Visualization <br>
 - 📫 How to reach me: twitter.com/koder <br>
 - 
