@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently into 30DaysOfPython challenge <br>
+- 🔭 I’m currently into Data Visualization using D3 <br>
 - 📫 How to reach me: twitter.com/koder <br>
 - 
